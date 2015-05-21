@@ -1,0 +1,9 @@
+C:\Users\Alumno\Documents\GitHub\casaArduino\casaArduino\bin\Debug\casaArduino.exe.config
+C:\Users\Alumno\Documents\GitHub\casaArduino\casaArduino\bin\Debug\casaArduino.exe
+C:\Users\Alumno\Documents\GitHub\casaArduino\casaArduino\bin\Debug\casaArduino.pdb
+C:\Users\Alumno\Documents\GitHub\casaArduino\casaArduino\obj\Debug\casaArduino.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\GitHub\casaArduino\casaArduino\obj\Debug\casaArduino.Form1.resources
+C:\Users\Alumno\Documents\GitHub\casaArduino\casaArduino\obj\Debug\casaArduino.Properties.Resources.resources
+C:\Users\Alumno\Documents\GitHub\casaArduino\casaArduino\obj\Debug\casaArduino.csproj.GenerateResource.Cache
+C:\Users\Alumno\Documents\GitHub\casaArduino\casaArduino\obj\Debug\casaArduino.exe
+C:\Users\Alumno\Documents\GitHub\casaArduino\casaArduino\obj\Debug\casaArduino.pdb
